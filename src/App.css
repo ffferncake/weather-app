@@ -1,0 +1,5 @@
+.container {
+  max-width: 1080px;
+  /* top and button is 20px and left and right is auto */
+  margin: 20px auto;
+}
